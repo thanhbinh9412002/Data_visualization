@@ -1,0 +1,3 @@
+- Link dataset: https://www.kaggle.com/datasets/knightbearr/sales-product-data
+- The project uses Python for data processing.
+- Use Apache Zeppelin to conduct data analysis and comments.
